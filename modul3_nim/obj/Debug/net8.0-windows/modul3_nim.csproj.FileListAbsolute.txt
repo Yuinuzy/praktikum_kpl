@@ -1,0 +1,16 @@
+D:\modul3_nim\modul3_nim\bin\Debug\net8.0-windows\modul3_nim.exe
+D:\modul3_nim\modul3_nim\bin\Debug\net8.0-windows\modul3_nim.deps.json
+D:\modul3_nim\modul3_nim\bin\Debug\net8.0-windows\modul3_nim.runtimeconfig.json
+D:\modul3_nim\modul3_nim\bin\Debug\net8.0-windows\modul3_nim.dll
+D:\modul3_nim\modul3_nim\bin\Debug\net8.0-windows\modul3_nim.pdb
+D:\modul3_nim\modul3_nim\obj\Debug\net8.0-windows\modul3_nim.Form1.resources
+D:\modul3_nim\modul3_nim\obj\Debug\net8.0-windows\modul3_nim.csproj.GenerateResource.cache
+D:\modul3_nim\modul3_nim\obj\Debug\net8.0-windows\modul3_nim.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul3_nim\modul3_nim\obj\Debug\net8.0-windows\modul3_nim.AssemblyInfoInputs.cache
+D:\modul3_nim\modul3_nim\obj\Debug\net8.0-windows\modul3_nim.AssemblyInfo.cs
+D:\modul3_nim\modul3_nim\obj\Debug\net8.0-windows\modul3_nim.csproj.CoreCompileInputs.cache
+D:\modul3_nim\modul3_nim\obj\Debug\net8.0-windows\modul3_nim.dll
+D:\modul3_nim\modul3_nim\obj\Debug\net8.0-windows\refint\modul3_nim.dll
+D:\modul3_nim\modul3_nim\obj\Debug\net8.0-windows\modul3_nim.pdb
+D:\modul3_nim\modul3_nim\obj\Debug\net8.0-windows\modul3_nim.genruntimeconfig.cache
+D:\modul3_nim\modul3_nim\obj\Debug\net8.0-windows\ref\modul3_nim.dll
